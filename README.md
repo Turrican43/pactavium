@@ -1,5 +1,7 @@
 # Pactavium
 
+> **Documentation preview:** This repository currently contains the project overview. Source code, supporting documentation, and release artifacts have not been published here yet. The examples below describe the existing implementation and will become runnable once those files are available.
+
 **Versioned contracts. Verified integrations. Visible usage.**
 
 Pactavium helps independently developed services agree on the data they exchange, verify that agreement before deployment, and make contract usage visible during operation.
