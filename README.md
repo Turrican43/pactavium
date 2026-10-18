@@ -10,6 +10,9 @@ It combines a language-neutral contract foundation, offline verification tools, 
 
 Validation can run locally without a catalog connection. Observation is explicit and optional: importing a model does not start a network client, send telemetry, or create a background worker.
 
+<img width="1920" height="2079" alt="image" src="https://github.com/user-attachments/assets/e124f9b3-e666-46d9-8442-7714390e97cf" />
+
+
 > **Status: pre-release, prepared for controlled deployment testing.**
 > The current implementation has passed development-environment qualification. Deployment on the target platform, operational acceptance, and an independent real-world consumer pilot remain pending. There is no stable 1.0 release yet.
 
